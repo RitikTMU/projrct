@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 HEllo Ritik,
+=======
+HEllo Ritik,
+This is ritik jain and i am here to show you....
+hey there
+>>>>>>> 587208467ea20cd3fadc886288e4b08a746bfed6
